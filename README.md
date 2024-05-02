@@ -26,8 +26,9 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/Mateus-Almeida/Mateus-Almeida/blob/output/github-contribution-grid-snake.gif)
-
+<div>
+    <img src="https://github.com/Mautes-Almeida/Mautes-Almeida/blob/output/github-contribution-grid-snake.gif" alt="UII Cobra"  />
+</div>
 
 ###
 
