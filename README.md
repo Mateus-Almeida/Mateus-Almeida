@@ -27,7 +27,7 @@
 <br clear="both">
 
 <div>
-    <img src="https://github.com/Mateus-Almeida/Mateus-Almeida/blob/output/github-contribution-grid-snake.gif" alt="UII Cobra"  />
+    <img src="https://github.com/Mateus-Almeida/Mateus-Almeida/blob/output/github-contribution-grid-snake.svg" alt="UII Cobra"  />
 </div>
 
 ###
