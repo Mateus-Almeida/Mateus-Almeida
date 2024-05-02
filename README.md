@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">Contact Me 📫<br>If you want to get in touch with me, you can send me a message here on GitHub or find me on social media.<br><br>Thanks for visiting my profile! 😊</p>
+<p align="left">Contact Me 📫<br>If you want to get in touch with me, you can send me a message here on GitHub or find me on social media.<br> <br>Thanks for visiting my profile! 😊</p>
 
 ###
 
